@@ -15,15 +15,15 @@ class SurveyController {
 
     await surveysRepository.save(survey);
 
-    return response.status(200).json(survey);
+    return response.status(201).json(survey);
   }
 
-  async show(request: Request, response:Response){
+  async show(request: Request, response: Response) {
     const surveysRepository = getCustomRepository(SurveysRepository);
 
-    const all = await surveysRepository.find()
+    const all = await surveysRepository.find();
 
-    return response.json(all)
+    return response.json(all);
   }
 }
 
