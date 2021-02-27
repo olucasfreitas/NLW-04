@@ -61,7 +61,7 @@ The following technologies were used in this project:
 
 - NodeJS 
 - Typescript
-_ Javascript
+- Javascript
 - TypeORM
 - Express
 - Handlebars
@@ -83,4 +83,4 @@ _ Javascript
 
 ## 📝 License
 
-This project is under the license [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE) license.
