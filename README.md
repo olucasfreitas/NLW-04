@@ -68,7 +68,7 @@ The following technologies were used in this project:
 - Jest
 
 ---
-## 🦸 Autor
+## 🦸 Author
 
 <a href="https://www.linkedin.com/in/lucas-freitas090/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54646059?s=460&u=77c62b0b5a1291c08c24cd6c32f25a38b24a9ae1&v=4" width="100px;" alt=""/>
