@@ -76,7 +76,7 @@ _ Javascript
  <sub><b>Lucas Freitas</b></sub></a> <a href="https://www.linkedin.com/in/lucas-freitas090/" title="Linkedin">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-freitas090/)](https://www.linkedin.com/in/lucas-freitas090/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-freitas090/)](https://www.linkedin.com/in/lucas-freitas090/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucadasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:lucasdasilvafreias090@gmail.com)
 
 ---
