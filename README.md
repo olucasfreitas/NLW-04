@@ -31,7 +31,7 @@ It's an api with the objective to create surveys for users to evaluate tha servi
 
 ### Prerequisites
 
-Before you start, you gonna have to install the following tolls:
+Before you start, you gonna have to install the following tools:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 
 #### 🎲 Running the Backend (server)
