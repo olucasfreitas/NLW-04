@@ -47,10 +47,10 @@ $ cd NLW-04
 # Install dependencies
 $ npm install or yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute the application on development mode 
 $ npm run dev:server or yarn dev:server
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# The server will initiate on the port:3333 - access http://localhost:3333 
 
 ```
 ---
