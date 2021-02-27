@@ -10,19 +10,6 @@
 	🚧   Concluded 🚀 🚧
 </h4>
 
-<!--ts-->
-   * [About the project](#-sobre-o-projeto)
-   * [Functionalities](#-funcionalidades)
-   * [How to run the project](#-como-executar-o-projeto)
-     * [Prerequisites](#pré-requisitos)
-     * [Running the Backend (server)](#user-content--rodando-o-backend-servidor)
-   * [Technologies](#-tecnologias)
-     * [Server](#user-content-server--nodejs----typescript)
-   * [Author](#-autor)
-   * [License](#user-content--licença)
-<!--te-->
-
-
 ## 💻 About the project
 
 It's an api with the objective to create surveys for users to evaluate tha services being provided.
