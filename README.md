@@ -83,6 +83,4 @@ _ Javascript
 
 ## 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+This project is under the license [MIT](./LICENSE).
